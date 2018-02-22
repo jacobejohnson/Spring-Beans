@@ -1,1 +1,1 @@
-# Spring-Beans
+This repo has two Maven projects created though use of Spring Beans.  The first is the provided lab entitles "SpringAccount".  The second is an original project entitled "SpringArtifact".  This project subtracts from a book store's inventory after a shipment of books. The files for both projects can be found in the "Beans" package. 
